@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabiyi Olaleye 
-- 👀 I’m interested in everything data including Python, SQL and visualization tools e.g PowerBI, Tableau
+- 👀 I’m interested in everything data analytics including Python, SQL and visualization tools e.g PowerBI, Tableau
 - 🌱 I’m currently learning Data Analyst in Python track on Dataquest 
 - 💞️ I’m looking to collaborate on 
 - 📫 Reach out to me on Twitter: @fabiyi_olaleye
